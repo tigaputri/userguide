@@ -40,4 +40,4 @@ Berikut ini langkah-langkah penginstalan Software TigaPutri:
 
     ![Login TigaPutri](/img/install/39.png)
 
-11. Jika ingin membeli atau mengaktivasi Software TigaPutri Edisi Nusaybah atau edisi diatasnya, silakan ikuti langkah-langkah [di sini](new-activation.md)
+11. Jika ingin membeli atau mengaktivasi Software TigaPutri Edisi Nusaybah atau edisi diatasnya, silakan ikuti langkah-langkah <a href="/docs/permulaan/aktivasi/new-activation" target="_blank">di sini</a>

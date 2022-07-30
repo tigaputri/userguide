@@ -8,7 +8,7 @@ Mengaktivasi Software TigaPutri secara online
 
 Untuk mengaktivasi Software TigaPutri secara online, langkah-langkahnya sebagai berikut:
 
-1. Pastikan sudah menginstall Software TigaPutri-nya sampai bisa dijalankan. Untuk cara instalasinya bisa dibaca di sini
+1. Pastikan sudah menginstall Software TigaPutri-nya sampai bisa dijalankan. Untuk cara instalasinya bisa dibaca <a href="/docs/permulaan/instalasi/fresh-install" target="_blank">di sini</a>
 
 2. Pastikan Edisi Software TigaPutrinya sudah sesuai. Jika TigaPutri-nya masih Free Edition, silakan hubungi pengembang TigaPutri untuk mendapatkan file TigaPutri sesuai edisi yang mau diaktivasi
 
