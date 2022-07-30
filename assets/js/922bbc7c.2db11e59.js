@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuserguide=self.webpackChunkuserguide||[]).push([[341],{3998:e=>{e.exports=JSON.parse('{"title":"Permulaan","slug":"/category/permulaan","permalink":"/userguide/docs/category/permulaan","navigation":{"previous":{"title":"Intro","permalink":"/userguide/docs/intro"},"next":{"title":"Instalasi","permalink":"/userguide/docs/category/instalasi"}}}')}}]);
