@@ -16,7 +16,7 @@ Untuk mengaktifkan fitur `.NET Framework 3.5` di Windows 8/8.1/10, caranya sebag
 
 1. Buka `Control Panel`
 
-    <img src="/img/control_panel_win10.png" width="300" height="400"></img>
+    ![Buka Control Panel](/img/control_panel_win10.png)
 
 2. Cari dan buka menu `Uninstall a Program` di `Control Panel`
 
